@@ -1,0 +1,2 @@
+conda install -c conda-forge jupyterlab
+conda install scikit-image
